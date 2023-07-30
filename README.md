@@ -11,9 +11,9 @@ Projeto para criação de lista de de tarefas simples, o intuito do projeto é r
 
 1. Clone o repositório para sua máquina local: https://github.com/Thenivlek/FrontCrudProject.git
 
-2. Navegue para o diretório do projeto: ./VueJsProject
+2. Navegue para o diretório do projeto: /FrontCrudProject
 
-3. Instale as dependências: npm install
+3. Instale as dependências: npm install --save
 
 
 ## Configuração
