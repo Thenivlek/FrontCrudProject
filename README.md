@@ -1,4 +1,4 @@
-# Nome do Projeto Vue
+# Lista de Tarefas Simples
 
 Projeto para criação de lista de de tarefas simples, o intuito do projeto é realizar a conexão bem sucedida com o Back-end em Nodejs
 
