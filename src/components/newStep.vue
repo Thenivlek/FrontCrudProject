@@ -28,7 +28,7 @@
             icon="mdi-close"
             variant="text"
             rounded
-            @click="dialog = false"
+            @click="newStepDialog = false"
           >
           </v-btn>
         </v-card-title>
@@ -124,7 +124,7 @@ export default {
     }
 
     const emitEditStep = () => {
-      emit("edit", newStep.value);
+      emit("edit", props.listId, newStep.value);
       newStepDialog.value = false;
     };
     const emitAddStep = () => {

@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import ChecklistListVue from "./ChecklistList.vue";
+import ChecklistListVue from "./CheckList.vue";
 export default {
   components: {
     ChecklistListVue,
