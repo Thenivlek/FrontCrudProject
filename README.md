@@ -18,7 +18,7 @@ Projeto para criação de lista de de tarefas simples, o intuito do projeto é r
 
 ## Configuração
 
-O intuito do projeto é para teste e portifólio, não necessica criar .env local.
+O intuito do projeto é para teste e portifólio, não necessita de .env local.
 
 ## Rodando o Projeto
 
