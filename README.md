@@ -1,57 +1,41 @@
-# base
+# Nome do Projeto Vue
 
-## Project setup
+Projeto para criação de lista de de tarefas simples, o intuito do projeto é realizar a conexão bem sucedida com o Back-end em Nodejs
 
-```
-# yarn
-yarn
+## Requisitos
 
-# npm
-npm install
+- Node.js (versão 18.16.0)
+- npm ou yarn (última versão ou compativel com a versão NodeJs)
 
-# pnpm
-pnpm install
-```
+## Instalação
 
-### Compiles and hot-reloads for development
+1. Clone o repositório para sua máquina local: https://github.com/Thenivlek/FrontCrudProject.git
 
-```
-# yarn
-yarn dev
+2. Navegue para o diretório do projeto: ./VueJsProject
 
-# npm
-npm run dev
+3. Instale as dependências: npm install
 
-# pnpm
-pnpm dev
-```
 
-### Compiles and minifies for production
+## Configuração
 
-```
-# yarn
-yarn build
+O intuito do projeto é para teste e portifólio, não necessica criar .env local.
 
-# npm
-npm run build
+## Rodando o Projeto
 
-# pnpm
-pnpm build
-```
+Para rodar o projeto, utilize o seguinte comando: npm run dev
 
-### Lints and fixes files
 
-```
-# yarn
-yarn lint
+O projeto estará disponível em: `http://localhost:3000/`.
 
-# npm
-npm run lint
+## Build
 
-# pnpm
-pnpm lint
-```
+Para criar uma versão de produção, utilize o seguinte comando: npm run build
 
-### Customize configuration
 
-See [Configuration Reference](https://vitejs.dev/config/).
+
+
+
+
+
+
+
