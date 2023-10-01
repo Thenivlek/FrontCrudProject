@@ -6,6 +6,7 @@ Projeto para criação de lista de de tarefas simples, o intuito do projeto é r
 
 - Node.js (versão 18.16.0)
 - npm ou yarn (última versão ou compativel com a versão NodeJs)
+- NVM para trocas da versão do Node.
 
 ## Instalação
 
@@ -41,7 +42,7 @@ Para criar uma versão de produção, utilize o seguinte comando: npm run build
 
 - **Possíveis melhorias no projeto**
 1. Melhorias no UX/UI.
- 
+
 
 
 
