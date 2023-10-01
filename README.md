@@ -31,7 +31,17 @@ O projeto estará disponível em: `http://localhost:3000/`.
 
 Para criar uma versão de produção, utilize o seguinte comando: npm run build
 
+## Considerações Finais 
 
+- **Dificuldades durante o desenvolvimento do projeto**
+1. Prototipagem da tela e qual seria a melhor experiência para o usuário.
+
+- **Facilidades durante o desenvolvimento do projeto**
+1. Possuo amplo conhecimento com o VueJs (v.2x e v.3x), devido a isso o tempo de desenvolvimento foi consideravelmente menor.
+
+- **Possíveis melhorias no projeto**
+1. Melhorias no UX/UI.
+ 
 
 
 
