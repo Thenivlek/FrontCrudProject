@@ -129,7 +129,8 @@ export default {
     const checklists = computed(() => store.state.checklists);
 
     watch(checklists, (newChecklists) => {
-      if (!!newChecklists == false) return;
+      if (newChecklists.length === undefined || !!newChecklists == false)
+        return;
       newChecklists.forEach((checklist) => {
         if (!!checklist.item == false) return;
         const completedItems = checklist.items.filter((item) => item.completed);
